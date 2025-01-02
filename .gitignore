@@ -3,3 +3,5 @@ node_modules/
 babel.config.js
 package-lock.json
 package.json
+nodesource_setup.sh
+package-lock.json
